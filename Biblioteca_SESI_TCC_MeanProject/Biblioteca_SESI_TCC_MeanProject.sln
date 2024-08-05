@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca_SESI_TCC_MeanProject", "Biblioteca_SESI_TCC_MeanProject\Biblioteca_SESI_TCC_MeanProject.csproj", "{433EE04B-759E-44CB-BE4A-60B411BF4275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{433EE04B-759E-44CB-BE4A-60B411BF4275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433EE04B-759E-44CB-BE4A-60B411BF4275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433EE04B-759E-44CB-BE4A-60B411BF4275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433EE04B-759E-44CB-BE4A-60B411BF4275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C0EFC68-5BB7-42C2-86DC-F6FBB9286C1A}
+	EndGlobalSection
+EndGlobal
