@@ -1,13 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\OneDrive\\Documents\\GitHub\\Biblio_Minha_parte\\Minha_Parte_Biblio\\",
+  "WorkspaceRootPath": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|d:\\onedrive\\documents\\github\\biblio_minha_parte\\minha_parte_biblio\\minha_parte_biblio\\frmsplash_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|d:\\onedrive\\documents\\github\\tcc_biblioteca_sesi\\minha_parte_biblio\\minha_parte_biblio\\ucconjuntolivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|solutionrelative:minha_parte_biblio\\ucconjuntolivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|d:\\onedrive\\documents\\github\\tcc_biblioteca_sesi\\minha_parte_biblio\\minha_parte_biblio\\ucconjuntolivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|solutionrelative:minha_parte_biblio\\ucconjuntolivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|d:\\onedrive\\documents\\github\\tcc_biblioteca_sesi\\minha_parte_biblio\\minha_parte_biblio\\controle\\clusercontrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|solutionrelative:minha_parte_biblio\\controle\\clusercontrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|d:\\onedrive\\documents\\github\\tcc_biblioteca_sesi\\minha_parte_biblio\\minha_parte_biblio\\frmreservadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|solutionrelative:minha_parte_biblio\\frmreservadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|d:\\onedrive\\documents\\github\\tcc_biblioteca_sesi\\minha_parte_biblio\\minha_parte_biblio\\frmmeanadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|solutionrelative:minha_parte_biblio\\frmmeanadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\minha_parte_biblio\\frmmeanadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|solutionrelative:minha_parte_biblio\\frmmeanadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\minha_parte_biblio\\frmmeanc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|solutionrelative:minha_parte_biblio\\frmmeanc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|d:\\onedrive\\documents\\github\\tcc_biblioteca_sesi\\minha_parte_biblio\\minha_parte_biblio\\frmuseradm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|solutionrelative:minha_parte_biblio\\frmuseradm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\minha_parte_biblio\\frmuseradm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|solutionrelative:minha_parte_biblio\\frmuseradm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\minha_parte_biblio\\frmreservadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|solutionrelative:minha_parte_biblio\\frmreservadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|d:\\onedrive\\documents\\github\\tcc_biblioteca_sesi\\minha_parte_biblio\\minha_parte_biblio\\frmsplash_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|solutionrelative:minha_parte_biblio\\frmsplash_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|d:\\onedrive\\documents\\github\\biblio_minha_parte\\minha_parte_biblio\\minha_parte_biblio\\frmsplash_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\minha_parte_biblio\\frmsplash_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}|Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj|solutionrelative:minha_parte_biblio\\frmsplash_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,10 +63,87 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UcConjuntoLivro.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\UcConjuntoLivro.cs",
+              "RelativeDocumentMoniker": "Minha_Parte_Biblio\\UcConjuntoLivro.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\UcConjuntoLivro.cs",
+              "RelativeToolTip": "Minha_Parte_Biblio\\UcConjuntoLivro.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:01:48.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UcConjuntoLivro.cs [Projeto]",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\UcConjuntoLivro.cs",
+              "RelativeDocumentMoniker": "Minha_Parte_Biblio\\UcConjuntoLivro.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\UcConjuntoLivro.cs [Projeto]",
+              "RelativeToolTip": "Minha_Parte_Biblio\\UcConjuntoLivro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:00:10.635Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClUsercontrole.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\Controle\\ClUsercontrole.cs",
+              "RelativeDocumentMoniker": "Minha_Parte_Biblio\\Controle\\ClUsercontrole.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\Controle\\ClUsercontrole.cs",
+              "RelativeToolTip": "Minha_Parte_Biblio\\Controle\\ClUsercontrole.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:58:06.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMeanADM.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmMeanADM.cs",
+              "RelativeDocumentMoniker": "Minha_Parte_Biblio\\FrmMeanADM.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmMeanADM.cs",
+              "RelativeToolTip": "Minha_Parte_Biblio\\FrmMeanADM.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAjwMwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:16:46.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmUserADM.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmUserADM.cs",
+              "RelativeDocumentMoniker": "Minha_Parte_Biblio\\FrmUserADM.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmUserADM.cs",
+              "RelativeToolTip": "Minha_Parte_Biblio\\FrmUserADM.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAmwGAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:16:08.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmReservADM.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmReservADM.cs",
+              "RelativeDocumentMoniker": "Minha_Parte_Biblio\\FrmReservADM.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmReservADM.cs",
+              "RelativeToolTip": "Minha_Parte_Biblio\\FrmReservADM.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAYwMsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:15:35.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "FrmSplash_Screen.cs",
-              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\Biblio_Minha_parte\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmSplash_Screen.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmSplash_Screen.cs",
               "RelativeDocumentMoniker": "Minha_Parte_Biblio\\FrmSplash_Screen.cs",
-              "ToolTip": "D:\\OneDrive\\Documents\\GitHub\\Biblio_Minha_parte\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmSplash_Screen.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmSplash_Screen.cs",
               "RelativeToolTip": "Minha_Parte_Biblio\\FrmSplash_Screen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,15 +152,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "FrmMeanADM.cs [Projeto]",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmMeanADM.cs",
+              "RelativeDocumentMoniker": "Minha_Parte_Biblio\\FrmMeanADM.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmMeanADM.cs [Projeto]",
+              "RelativeToolTip": "Minha_Parte_Biblio\\FrmMeanADM.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:16:45.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMeanC.cs [Projeto]",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmMeanC.cs",
+              "RelativeDocumentMoniker": "Minha_Parte_Biblio\\FrmMeanC.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmMeanC.cs [Projeto]",
+              "RelativeToolTip": "Minha_Parte_Biblio\\FrmMeanC.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:16:39.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmUserADM.cs [Projeto]",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmUserADM.cs",
+              "RelativeDocumentMoniker": "Minha_Parte_Biblio\\FrmUserADM.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmUserADM.cs [Projeto]",
+              "RelativeToolTip": "Minha_Parte_Biblio\\FrmUserADM.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:16:06.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmReservADM.cs [Projeto]",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmReservADM.cs",
+              "RelativeDocumentMoniker": "Minha_Parte_Biblio\\FrmReservADM.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmReservADM.cs [Projeto]",
+              "RelativeToolTip": "Minha_Parte_Biblio\\FrmReservADM.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:15:32.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "FrmSplash_Screen.cs [Design]",
-              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\Biblio_Minha_parte\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmSplash_Screen.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmSplash_Screen.cs",
               "RelativeDocumentMoniker": "Minha_Parte_Biblio\\FrmSplash_Screen.cs",
               "ToolTip": "D:\\OneDrive\\Documents\\GitHub\\Biblio_Minha_parte\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmSplash_Screen.cs [Design]",
-              "RelativeToolTip": "Minha_Parte_Biblio\\FrmSplash_Screen.cs [Design]",
+              "RelativeToolTip": "..\\..\\Biblio_Minha_parte\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\FrmSplash_Screen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T14:14:32.117Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-25T14:14:32.117Z"
             }
           ]
         }

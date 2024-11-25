@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "44yK3BjIcZ8=",
+  "dgSpecHash": "0S9eyWhv3wc=",
   "success": true,
-  "projectFilePath": "D:\\OneDrive\\Documents\\GitHub\\Biblio_Minha_parte\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj",
+  "projectFilePath": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafin\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\rafin\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

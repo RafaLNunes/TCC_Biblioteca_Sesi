@@ -51,7 +51,7 @@ namespace Minha_Parte_Biblio
             try
             {
                 // Obtendo os dados da consulta
-                data = conexao.obterdados($"SELECT Table_Reservas.CD_Reservas, Table_Livro.Nome_Livro, Table_reservas.DT_reserva, Table_reservas.DT_previsao_devolucao FROM Table_reservas INNER JOIN Table_Livro ON Table_Reservas.CFK_Livro = Table_Livro.Order_Livro;");
+                data = conexao.obterdados($"    SELECT Table_Reservas.CD_Reservas, Table_User.CD_User, Table_User.NameUser, Table_Livro.Nome_Livro, Table_reservas.DT_reserva, Table_reservas.DT_previsao_devolucao FROM Table_reservas INNER JOIN Table_Livro ON Table_Reservas.CFK_Livro = Table_Livro.Order_Livro Inner join Table_User where Table_User.CD_User = Table_Reservas.CFK_User;");
 
                 // Definindo a fonte de dados do DataGridView
                 dataGridView.DataSource = data;
@@ -125,7 +125,7 @@ namespace Minha_Parte_Biblio
             {
                 // messagebox que diz alongado periodo com sucesso
                 MessageBox.Show("Período de devolução reagendado para: " + dataFuturaFormatada + ".");
-                data = conexao.obterdados($"SELECT Table_Reservas.CD_Reservas, Table_Livro.Nome_Livro, Table_reservas.DT_reserva, Table_reservas.DT_previsao_devolucao FROM Table_reservas INNER JOIN Table_Livro ON Table_Reservas.CFK_Livro = Table_Livro.Order_Livro;");
+                data = conexao.obterdados($"    SELECT Table_Reservas.CD_Reservas, Table_User.CD_User, Table_User.NameUser, Table_Livro.Nome_Livro, Table_reservas.DT_reserva, Table_reservas.DT_previsao_devolucao FROM Table_reservas INNER JOIN Table_Livro ON Table_Reservas.CFK_Livro = Table_Livro.Order_Livro Inner join Table_User where Table_User.CD_User = Table_Reservas.CFK_User;");
                 dataGridView.DataSource = data;
             }
             else
@@ -184,7 +184,7 @@ namespace Minha_Parte_Biblio
             {
                 MessageBox.Show("Reserva Excluída");
 
-                data = conexao.obterdados($"SELECT Table_Reservas.CD_Reservas, Table_Livro.Nome_Livro, Table_reservas.DT_reserva, Table_reservas.DT_previsao_devolucao FROM Table_reservas INNER JOIN Table_Livro ON Table_Reservas.CFK_Livro = Table_Livro.Order_Livro;");
+                data = conexao.obterdados($"    SELECT Table_Reservas.CD_Reservas, Table_User.CD_User, Table_User.NameUser, Table_Livro.Nome_Livro, Table_reservas.DT_reserva, Table_reservas.DT_previsao_devolucao FROM Table_reservas INNER JOIN Table_Livro ON Table_Reservas.CFK_Livro = Table_Livro.Order_Livro Inner join Table_User where Table_User.CD_User = Table_Reservas.CFK_User;");
                 dataGridView.DataSource = data;
             }
             else
@@ -207,11 +207,11 @@ namespace Minha_Parte_Biblio
                 codigo1 = Convert.ToInt32(row.Cells[0].Value.ToString()); // CD_Reservas
                                                                           // Você pode acessar outros valores assim:
                 string nomeLivro = row.Cells[1].Value.ToString(); // Nome_Livro
-                DateTime dtReserva = Convert.ToDateTime(row.Cells[2].Value); // DT_reserva
-                DateTime dtPrevisaoDevolucao = Convert.ToDateTime(row.Cells[3].Value); // DT_previsao_devolucao
+                DateTime dtReserva = Convert.ToDateTime(row.Cells[4].Value); // DT_reserva
+                DateTime dtPrevisaoDevolucao = Convert.ToDateTime(row.Cells[5].Value); // DT_previsao_devolucao
                 LbNome_Obra.Text = nomeLivro;
                 DataTable dataTable_livro = new DataTable();
-                dataTable_livro = conexao.obterdados($"select * from Table_Livro where Nome_Livro = '{row.Cells[1].Value.ToString()}'");
+                dataTable_livro = conexao.obterdados($"select * from Table_Livro where Nome_Livro = '{row.Cells[3].Value.ToString()}'");
 
                 string imagePath = Path.Combine(Directory.GetCurrentDirectory(), "DT_Image_Books\\\\", Path.GetFileName(dataTable_livro.Rows[0]["IMG_Livro"].ToString()));
 

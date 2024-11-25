@@ -1613,11 +1613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Documents\\GitHub\\Biblio_Minha_parte\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj",
       "projectName": "Minha_Parte_Biblio",
-      "projectPath": "D:\\OneDrive\\Documents\\GitHub\\Biblio_Minha_parte\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj",
+      "projectPath": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\Minha_Parte_Biblio.csproj",
       "packagesPath": "C:\\Users\\rafin\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Documents\\GitHub\\Biblio_Minha_parte\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\obj\\",
+      "outputPath": "D:\\OneDrive\\Documents\\GitHub\\TCC_Biblioteca_Sesi\\Minha_Parte_Biblio\\Minha_Parte_Biblio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

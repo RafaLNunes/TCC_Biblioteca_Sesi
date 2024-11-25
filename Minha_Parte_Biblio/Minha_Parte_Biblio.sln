@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minha_Parte_Biblio", "Minha_Parte_Biblio\Minha_Parte_Biblio.csproj", "{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "INSTALADOR BIBLIO ONLINE SESI", "INSTALADOR BIBLIO ONLINE SESI\INSTALADOR BIBLIO ONLINE SESI.vdproj", "{2F06F443-4C3C-422E-8DFD-A932322E423C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7F07BBF-5DB0-46F0-BA14-966EBB228C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F06F443-4C3C-422E-8DFD-A932322E423C}.Debug|Any CPU.ActiveCfg = Debug
+		{2F06F443-4C3C-422E-8DFD-A932322E423C}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
