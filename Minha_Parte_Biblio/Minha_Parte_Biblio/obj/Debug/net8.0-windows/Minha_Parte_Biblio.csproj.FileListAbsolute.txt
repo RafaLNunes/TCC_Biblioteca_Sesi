@@ -1,0 +1,137 @@
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\Minha_Parte_Biblio.exe
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\Minha_Parte_Biblio.deps.json
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\Minha_Parte_Biblio.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\Minha_Parte_Biblio.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\Minha_Parte_Biblio.pdb
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.Properties.Resources.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.sourcelink.json
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\refint\Minha_Parte_Biblio.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.pdb
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\ref\Minha_Parte_Biblio.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FRMLogIn.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmSplash_Screen.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmSignUp.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmBoasVindas.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\usuario.FrmhistLivros.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\usuario.FrmCatalogo.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\usuario.Frmsobrenos.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\usuario.Frmusuario.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmMeanC.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.UcConjuntoLivro.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.Form1.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.INFO_Livro.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.INFO_Unidade.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.TELA_Perg_Frequentes.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.TELA_ReservaNegada.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.TELA_Reserva_Cance_Usuario.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.TELA_Reserva_Feita.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.Form1.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmBoasVindas.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\usuario.FrmCatalogo.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\usuario.Frmusuario.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.Properties.Resources.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.TELA_Perg_Frequentes.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.TELA_Reserva_Cance_Usuario.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.TELA_Reserva_Feita.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.UcConjuntoLivro.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\refint\Minha_Parte_Biblio.dll
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.pdb
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\usuario.FrmhistLivros.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FRMLogIn.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Base Estragada\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmLogInE.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmSendEmail.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmSobreDevs.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Pa.668F8C3F.Up2Date
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmADMSign.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmQuestionario.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmVerReserva.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmAcessoLog.resources
+C:\Users\Aluno\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.LIXOLIXOLIXO.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\Minha_Parte_Biblio.exe
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\Minha_Parte_Biblio.deps.json
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\Minha_Parte_Biblio.runtimeconfig.json
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\Minha_Parte_Biblio.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\Minha_Parte_Biblio.pdb
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.Form1.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmAcessoLog.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmADMSign.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmBoasVindas.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\usuario.FrmCatalogo.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\usuario.FrmhistLivros.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmLogIn.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmMeanADM.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmMeanC.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmQuestionario.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmSendEmail.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmSignUp.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmSobreDevs.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\usuario.Frmsobrenos.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmSplash_Screen.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\usuario.Frmusuario.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmVerReserva.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.INFO_Livro.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.INFO_Unidade.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.LIXOLIXOLIXO.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.Properties.Resources.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.TELA_Perg_Frequentes.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.TELA_ReservaNegada.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.TELA_Reserva_Cance_Usuario.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Library_Project.TELA_Reserva_Feita.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.UcConjuntoLivro.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.csproj.GenerateResource.cache
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.AssemblyInfo.cs
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.sourcelink.json
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Pa.668F8C3F.Up2Date
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\refint\Minha_Parte_Biblio.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.pdb
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.genruntimeconfig.cache
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\ref\Minha_Parte_Biblio.dll
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmLivrosADM.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmReservADM.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmUserADM.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmUserAnalitc.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmLivroExpADM.resources
+D:\OneDrive\Documents\GitHub\Biblio_Minha_parte\Minha_Parte_Biblio\Minha_Parte_Biblio\obj\Debug\net8.0-windows\Minha_Parte_Biblio.FrmUnidades.resources

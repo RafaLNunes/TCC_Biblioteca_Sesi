@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BntCircle.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ClPainelPersonalizado.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmADMSign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCatalogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBoasVindas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmhistLivros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLivroExpADM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLivrosADM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMeanADM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMeanC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmQuestionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmReservADM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSendEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSobreDevs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frmsobrenos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSplash_Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUnidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUserADM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUserAnalitc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frmusuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmVerReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INFO_Livro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INFO_Unidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LIXOLIXOLIXO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PictureBoxCircle.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="TELA_Perg_Frequentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TELA_ReservaNegada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TELA_Reserva_Cance_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TELA_Reserva_Feita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UcConjuntoLivro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="FrmhistLivros.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FrmLogIn.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FrmMeanC.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FrmSignUp.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Frmsobrenos.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FrmSplash_Screen.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="INFO_Livro.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="INFO_Unidade.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TELA_ReservaNegada.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
